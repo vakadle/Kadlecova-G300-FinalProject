@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jakubkadlec/Documents/GitHub/Kadlecova-G300-FinalProject/FinalProject/Content/Splash/POLYGON_Fantasy_Kingdom_Thumb.uasset",
+				"/Users/jakubkadlec/Documents/GitHub/Kadlecova-G300-FinalProject/FinalProject/Content/Splash/EdSplash.uasset"
+			]
+		}
+	]
+}
